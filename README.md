@@ -92,8 +92,6 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-## GitHub Activity Graph
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=tokyonight)
@@ -108,18 +106,16 @@
 
 ## 🛠️ Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode)
+### 🧰 Skills
 
-## 📈 Activity Graph
-
-[![Azizul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azizulhakim6817&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=azizulhakim6817&theme=merko&_t=1773129438306)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,prisma,postgres,mongodb,html,css,js,python,github,vscode)
 
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizul-hakim-948309237/)
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Azizulhaki15589)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/azizulhakimvideo/)
+
+## GitHub Activity Graph
+
+[![Azizul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azizulhakim6817&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
