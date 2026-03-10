@@ -104,6 +104,14 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=merko)
 
+1.  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=radical)
+
+2.  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizulhakim6817&layout=compact&theme=radical)
+
+3.  ![GitHub Streak](https://streak-stats.demolab.com?user=azizulhakim6817&theme=radical)
+
+4.  ![Trophy](https://github-profile-trophy.vercel.app/?username=azizulhakim6817&theme=radical)
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=azizulhakim6817&theme=tokyonight)
