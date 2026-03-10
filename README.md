@@ -92,7 +92,7 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-[![Azizul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azizul-hakim-948309237&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Azizul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azizulhakim6817&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📈 GitHub Stats
 
