@@ -63,7 +63,7 @@
 - 👯 **Collaboration:** I’m looking to collaborate on open-source Full Stack projects.
 - 💬 **Ask me about:** JavaScript, TypeScript, and full-stack architecture!
 
-<<h3 align="left">Version Control & Package Managers</h3>
+<h3 align="left">Version Control & Package Managers</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -94,10 +94,7 @@
 
 ### 📈 GitHub Stats
 
-![Azizul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
-
----
+## ![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=azizulhakim6817&theme=merko&_t=1773129207561)
 
 ### 📫 Connect with me
 
