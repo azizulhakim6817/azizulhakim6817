@@ -102,7 +102,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=azizulhakim6817&_t=1773133231944)
 
 ## 🔥 GitHub Streak
 
