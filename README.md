@@ -114,7 +114,7 @@
 
 [![Azizul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azizulhakim6817&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📈 GitHub Stats
+
 
 ![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=azizulhakim6817&theme=merko&_t=1773129438306)
 
