@@ -100,7 +100,7 @@
 
 <h3 align="left">📊 GitHub Stats-1</h3>
 <p align="left">
-  <img src="image/github-stats-azizulhakim6817.png" alt="Azizul's GitHub Stats" height="400" width="600" />
+  <img src="image/github-stats-azizulhakim6817.png" alt="Azizul's GitHub Stats" height="200" width="800" />
 </p>
 
 ---
