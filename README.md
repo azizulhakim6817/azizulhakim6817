@@ -102,7 +102,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](./image/github-stats-png/api/github-stats/svg?username=azizulhakim6817&_t=1773133231944)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulhakim6817&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
 
 ## 🔥 GitHub Streak
 
