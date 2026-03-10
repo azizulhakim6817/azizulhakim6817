@@ -102,7 +102,7 @@
 
 ## 📊 GitHub Stats
 
-![Azizul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
+![Azizul's GitHub Stats](/image/github-stats-azizulhakim6817.png/api?username=azizulhakim6817&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
 
 ## 🔥 GitHub Streak
 
