@@ -100,18 +100,18 @@
 
 <h3 align="left">📊 GitHub Stats-1</h3>
 <p align="left">
-  <img src="image/github-stats-azizulhakim6817.png" alt="Azizul's GitHub Stats" height="200" width="800" />
+  <img src="image/github-stats-azizulhakim6817.png" alt="Azizul's GitHub Stats" height="400" width="800" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=radical)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=azizulhakim6817&theme=tokyonight)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=radical)
 
 ## 👀 Profile Visitors
 
