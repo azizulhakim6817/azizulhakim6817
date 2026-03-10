@@ -102,10 +102,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulhakim6817&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
+![Azizul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
 
 ## 🔥 GitHub Streak
 
