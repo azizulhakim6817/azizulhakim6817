@@ -11,10 +11,26 @@
   </a>
 </p>
 
-### _TS & JS Enthusiast_
+## _TS & JS Enthusiast_
 
 > 🛠️ **Building type-safe apps** with React, Next.js, Node.js & Prisma.  
 > 🌍 Based in Bangladesh | 🚀 Passionate about Scalable Architecture.
+
+---
+
+## 🚀 About Me
+
+🛠️ **Building type-safe apps** with React, Next.js, Node.js & Prisma.
+
+- 🔭 **Frontend:** Currently focusing on React.js, Next.js, TypeScript, and Redux.
+- ⚙️ **Backend:** Crafting APIs with Node.js, Express.js, MongoDB (Mongoose), and PostgreSQL (Prisma).
+- 🌱 **Learning:** Expanding my horizon with Python, Docker, and AWS.
+- 👯 **Collaboration:** I’m looking to collaborate on open-source Full Stack projects.
+- 💬 **Ask me about:** JavaScript, TypeScript, and full-stack architecture!
+
+## 🧰 Skills
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,prisma,postgres,mongodb,html,css,js,python,github,vscode)
 
 ---
 
@@ -53,20 +69,6 @@
 
 ---
 
-### 🚀 About Me
-
-🛠️ **Building type-safe apps** with React, Next.js, Node.js & Prisma.
-
-- 🔭 **Frontend:** Currently focusing on React.js, Next.js, TypeScript, and Redux.
-- ⚙️ **Backend:** Crafting APIs with Node.js, Express.js, MongoDB (Mongoose), and PostgreSQL (Prisma).
-- 🌱 **Learning:** Expanding my horizon with Python, Docker, and AWS.
-- 👯 **Collaboration:** I’m looking to collaborate on open-source Full Stack projects.
-- 💬 **Ask me about:** JavaScript, TypeScript, and full-stack architecture!
-
-### 🧰 Skills
-
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,prisma,postgres,mongodb,html,css,js,python,github,vscode)
-
 <h3 align="left">Version Control & Package Managers</h3>
 
 <p align="left">
@@ -96,6 +98,8 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=tokyonight)
@@ -108,7 +112,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=azizulhakim6817&label=Profile%20views&color=0e75b6&style=flat)
 
-### 📫 Connect with me
+## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizul-hakim-948309237/)
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Azizulhaki15589)
