@@ -1,12 +1,6 @@
 ![Alt text](/image/banner.png)
 
-<p align="center">
-  <a href="https://github.com/AzizulHakim">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Azizul+Hakim+👋;Full+Stack+Developer+%7C+TS+%26+JS+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
----
+# Hi there, I'm Azizul Hakim 👋
 
 ## 👨‍💻 Full Stack / MERN Stack Developer
 
