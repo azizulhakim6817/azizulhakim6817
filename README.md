@@ -1,6 +1,6 @@
 ![Alt text](/image/banner.png)
 
-# Hi there, <p align="left">
+# <p align="left">Hi there,
 
   <a href="https://github.com/your-username">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&width=435&lines=I'm+Azizul+Hakim;👋;" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Full Stack / MERN Stack Developer
 
-# 👨‍💻 <p align="left">
+ <p align="left">
 
   <a href="https://github.com/your-username">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;TS+%26+JS+Enthusiast;Building+Type-Safe+Apps" alt="Typing SVG" />
