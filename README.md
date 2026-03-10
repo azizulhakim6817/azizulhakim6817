@@ -98,19 +98,16 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
+<h3 align="left">📊 GitHub Stats-1</h3>
+<p align="left">
+  <img src="image/github-stats-azizulhakim6817.png" alt="Azizul's GitHub Stats" width="800" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=merko)
-
-1.  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=radical)
-
-2.  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizulhakim6817&layout=compact&theme=radical)
-
-3.  ![GitHub Streak](https://streak-stats.demolab.com?user=azizulhakim6817&theme=radical)
-
-4.  ![Trophy](https://github-profile-trophy.vercel.app/?username=azizulhakim6817&theme=radical)
 
 ## 🔥 GitHub Streak
 
