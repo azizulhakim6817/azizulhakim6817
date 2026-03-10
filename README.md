@@ -102,10 +102,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <h2>📊 My GitHub Analytics</h2>
-  <img src="./github-stats-azizulhakim6817.png" alt="Azizul's GitHub Stats" width="800px">
-</div>
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=azizulhakim6817&theme=merko&_t=1773134270086)
 
 ## 🔥 GitHub Streak
 
