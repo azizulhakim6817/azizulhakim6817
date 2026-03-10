@@ -63,25 +63,36 @@
 - 👯 **Collaboration:** I’m looking to collaborate on open-source Full Stack projects.
 - 💬 **Ask me about:** JavaScript, TypeScript, and full-stack architecture!
 
----
+### 📈 GitHub Analytics
 
-### 🛠 My Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Azizul's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="180" />
+</p>
 
-| Category     | Tools                                  |
-| :----------- | :------------------------------------- |
-| **Frontend** | React, Next.js, Redux, Tailwind CSS    |
-| **Backend**  | Node.js, Express.js, Prisma            |
-| **Database** | PostgreSQL, MongoDB, Mongoose          |
-| **DevOps**   | Docker (Learning), AWS (Learning), Git |
-
----
-
-### 📈 GitHub Stats
-
-![Azizul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
 
 ---
+
+### 🏆 Achievements
+
+Displaying trophies for your contributions adds a "gamified" feel to your profile.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME_HERE&theme=radical&no-frame=false&margin-w=15&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+
+This adds a fun, animated snake that crawls through your contribution green squares.
+
+<p align="center">
+  <img src="https://github-contribution-grid-snake.dark.svg" alt="Snake Animation" />
+</p>
 
 ### 📫 Connect with me
 
