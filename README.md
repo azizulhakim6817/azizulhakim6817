@@ -1,8 +1,16 @@
 ![Alt text](/image/banner.png)
+
 # Hi there, I'm Azizul Hakim 👋
 
+<p align="left">
+  <a href="https://github.com/your-username">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;TS+%26+JS+Enthusiast;Building+Type-Safe+Apps" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 👨‍💻 Full Stack / MERN Stack Developer
-### *TS & JS Enthusiast*
+
+### _TS & JS Enthusiast_
 
 > 🛠️ **Building type-safe apps** with React, Next.js, Node.js & Prisma.  
 > 🌍 Based in Bangladesh | 🚀 Passionate about Scalable Architecture.
@@ -41,6 +49,7 @@
 ---
 
 ### 🚀 About Me
+
 🛠️ **Building type-safe apps** with React, Next.js, Node.js & Prisma.
 
 - 🔭 **Frontend:** Currently focusing on React.js, Next.js, TypeScript, and Redux.
@@ -53,21 +62,23 @@
 
 ### 🛠 My Tech Stack
 
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Redux, Tailwind CSS |
-| **Backend** | Node.js, Express.js, Prisma |
-| **Database** | PostgreSQL, MongoDB, Mongoose |
-| **DevOps** | Docker (Learning), AWS (Learning), Git |
+| Category     | Tools                                  |
+| :----------- | :------------------------------------- |
+| **Frontend** | React, Next.js, Redux, Tailwind CSS    |
+| **Backend**  | Node.js, Express.js, Prisma            |
+| **Database** | PostgreSQL, MongoDB, Mongoose          |
+| **DevOps**   | Docker (Learning), AWS (Learning), Git |
 
 ---
 
 ### 📈 GitHub Stats
+
 ![Azizul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
