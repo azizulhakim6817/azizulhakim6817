@@ -1,8 +1,13 @@
 ![Alt text](/image/banner.png)
 # Hi there, I'm Azizul Hakim 👋
 
-# 👨‍💻 Azizul Hakim | Full Stack Developer
+## 👨‍💻 Full Stack / MERN Stack Developer
 ### *TS & JS Enthusiast*
+
+> 🛠️ **Building type-safe apps** with React, Next.js, Node.js & Prisma.  
+> 🌍 Based in Bangladesh | 🚀 Passionate about Scalable Architecture.
+
+---
 
 <h3 align="left">Design & Frontend</h3>
 <p align="left">
