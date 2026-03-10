@@ -63,6 +63,10 @@
 - 👯 **Collaboration:** I’m looking to collaborate on open-source Full Stack projects.
 - 💬 **Ask me about:** JavaScript, TypeScript, and full-stack architecture!
 
+### 🧰 Skills
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,prisma,postgres,mongodb,html,css,js,python,github,vscode)
+
 <h3 align="left">Version Control & Package Managers</h3>
 
 <p align="left">
@@ -103,12 +107,6 @@
 ## 👀 Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=azizulhakim6817&label=Profile%20views&color=0e75b6&style=flat)
-
-## 🛠️ Skills
-
-### 🧰 Skills
-
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,prisma,postgres,mongodb,html,css,js,python,github,vscode)
 
 ### 📫 Connect with me
 
