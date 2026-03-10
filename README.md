@@ -92,7 +92,27 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-[![Azizul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azizulhakim6817&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## GitHub Activity Graph
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizulhakim6817&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=azizulhakim6817&theme=tokyonight)
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=azizulhakim6817&label=Profile%20views&color=0e75b6&style=flat)
+
+## 🛠️ Skills
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode)
+
+## 📈 Activity Graph
+
+[![Azizul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azizulhakim6817&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📈 GitHub Stats
 
